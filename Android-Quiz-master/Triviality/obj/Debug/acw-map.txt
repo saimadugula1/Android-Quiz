@@ -1,0 +1,12 @@
+Triviality.QuizActivity, Triviality;md5fcbfb0a825fb6a0cb018ec595ef3e450.QuizActivity
+Triviality.QuizActivity, Triviality, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fcbfb0a825fb6a0cb018ec595ef3e450.QuizActivity
+Triviality.QuizActivity;md5fcbfb0a825fb6a0cb018ec595ef3e450.QuizActivity
+triviality.QuizActivity;md5fcbfb0a825fb6a0cb018ec595ef3e450.QuizActivity
+Triviality.DbHelper, Triviality;md5fcbfb0a825fb6a0cb018ec595ef3e450.DbHelper
+Triviality.DbHelper, Triviality, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fcbfb0a825fb6a0cb018ec595ef3e450.DbHelper
+Triviality.DbHelper;md5fcbfb0a825fb6a0cb018ec595ef3e450.DbHelper
+triviality.DbHelper;md5fcbfb0a825fb6a0cb018ec595ef3e450.DbHelper
+Triviality.ResultActivity, Triviality;md5fcbfb0a825fb6a0cb018ec595ef3e450.ResultActivity
+Triviality.ResultActivity, Triviality, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fcbfb0a825fb6a0cb018ec595ef3e450.ResultActivity
+Triviality.ResultActivity;md5fcbfb0a825fb6a0cb018ec595ef3e450.ResultActivity
+triviality.ResultActivity;md5fcbfb0a825fb6a0cb018ec595ef3e450.ResultActivity
